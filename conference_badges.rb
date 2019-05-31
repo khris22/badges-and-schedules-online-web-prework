@@ -11,3 +11,8 @@ end
 return array1
 end
 
+def assign_rooms(array)
+  array1 = []
+  counter = 1 
+  array.each do |name|
+    array1.push()
