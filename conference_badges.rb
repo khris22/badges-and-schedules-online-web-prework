@@ -12,3 +12,4 @@ def batch_badge_creator(array)
 end
 return array1
 end
+
